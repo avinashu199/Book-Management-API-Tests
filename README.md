@@ -53,6 +53,8 @@ host = localhost
 database = APIDevelop
 user = root
 password = root
+```
+```
 ▶️ How to Run
 1️⃣ Clone the repository
 git clone https://github.com/avinashu199/Book-Management-API-Tests.git
@@ -67,7 +69,7 @@ GET/Response Validation
 DELETE → Remove Book
 ```
 🔐 Key Learnings
-```
+
 API automation using Python Requests
 Handling database-driven test data
 Structuring a scalable test framework
@@ -77,7 +79,7 @@ Add Pytest framework
 Implement logging & reporting
 Add CI/CD integration (GitHub Actions)
 Add more CRUD test coverage
-```
+
 👨‍💻 Author
 
 Avinash Uppalapati
